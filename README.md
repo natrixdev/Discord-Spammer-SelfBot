@@ -9,7 +9,6 @@
 ![image](https://github.com/natrixdev/Discord-Spammer-SelfBot/assets/88579983/b335ee9c-091d-460c-8548-4fd4524b857c)
 
 ### Install modules 
-```npm init```<br/>
 ```npm discord.js-selfbot-v13```<br/>
 Note : or you can just do it with this file : [modules_installer.bat](https://github.com/natrixdev/Discord-Spammer-SelfBot/blob/main/SelfBot/modules_installer.bat)
 
