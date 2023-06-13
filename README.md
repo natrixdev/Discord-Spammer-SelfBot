@@ -14,3 +14,6 @@ Note : or you can just do it with this file : [modules_installer.bat](https://gi
 
 ### Run the script 
 You can do It by running this file : [starter.bat](https://github.com/natrixdev/Discord-Spammer-SelfBot/blob/main/SelfBot/starter.bat)
+
+
+⭐Fork & Star ⭐
